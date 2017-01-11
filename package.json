@@ -1,0 +1,18 @@
+{
+  "name": "unzip-promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mail.sangram.desai@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "event-stream": "^3.3.4",
+    "gulp": "^3.9.1",
+    "gulp-decompress": "^2.0.1",
+    "gulp-fn": "0.0.0",
+    "gulp-foreach": "^0.1.0"
+  }
+}
